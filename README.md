@@ -1,17 +1,3 @@
-<!--
-  ════════════════════════════════════════════════════════════════
-  PROFILE README — Fabián Solano (@Cacheater)
-  ────────────────────────────────────────────────────────────────
-  HOW TO USE THIS FILE:
-  1. Create a new repository named EXACTLY  cacheater  (same as your username).
-  2. Make it Public and check "Add a README file".
-  3. Replace the auto-generated README with the content below.
-  4. Edit the >>> CUSTOMIZE <<< spots (email, featured projects, etc.).
-  5. Commit. GitHub shows it at the top of github.com/cacheater automatically.
-  Written in English to reach international recruiters — translate if you prefer.
-  ════════════════════════════════════════════════════════════════
--->
-
 <h1 align="center">Hi, I'm Fabián 👋</h1>
 <h3 align="center">QA Automation Engineer · Full-Stack Testing</h3>
 
@@ -24,7 +10,6 @@
   <a href="https://www.linkedin.com/in/fabian-solano-40203378">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- >>> CUSTOMIZE: replace with your real contact email <<< -->
   <a href="mailto:cacheater@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -38,7 +23,7 @@
 - 🤝 Open to **full-time roles** and **freelance / contract** work.
 - 🛠️ I turn manual test cases into maintainable automated suites integrated into CI/CD.
 - 🌎 Based in Costa Rica (UTC−6) · working in English & Spanish.
-- 📚 Always learning — currently sharpening my skills in <!-- >>> CUSTOMIZE: e.g. Playwright, performance testing <<< -->.
+- 📚 Currently sharpening my skills in **Playwright, performance testing, CI/CD & DevOps, and advanced API testing**.
 
 ---
 
@@ -64,24 +49,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-> ✏️ Keep only the tools you actually use. An honest, shorter list beats a long aspirational one — recruiters ask about everything you list.
-
 ---
 
 ### 🚀 Featured projects
 
-<!--
-  >>> CUSTOMIZE <<<
-  Pin 4–6 repos on your profile (see the guide). For your best ones, add a row here.
-  Aim for ORIGINAL work, not course forks. Ideas below if you need a starting point.
--->
-
 | Project | What it shows | Stack |
 |---------|---------------|-------|
-| [ui-automation-framework](#) | Page Object Model E2E framework with reporting | Java · Selenium · TestNG |
-| [api-testing-suite](#) | REST API tests with data-driven scenarios | Java · RestAssured · Postman |
-| [bdd-cucumber-demo](#) | Behaviour-driven tests in plain language | Cucumber · Gherkin |
-| [ci-cd-tests](#) | Tests running automatically on every push | GitHub Actions |
+| [selenium-e2e-framework](https://github.com/Cacheater/selenium-e2e-framework) | Page Object Model E2E framework with CI | Java · Selenium · TestNG |
+| [playwright-e2e-framework](https://github.com/Cacheater/playwright-e2e-framework) | Cross-browser E2E tests, traces on failure | Playwright · TypeScript |
 
 ---
 
@@ -91,11 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Cacheater&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cacheater&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
-
-<!--
-  These widgets are powered by github-readme-stats (a free public service).
-  They update automatically. If an image doesn't load, the service is just busy — try later.
--->
 
 ---
 
